@@ -1,0 +1,4 @@
+socket_demo_backend/*.log
+socket_demo_backend/npm-debug.log*
+socket_demo_backend/node_modules/
+!socket_demo_frontend/.gitignore
